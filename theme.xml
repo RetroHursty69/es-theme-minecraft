@@ -209,7 +209,7 @@ version         1.0
    <view name="detailed">
       <image name="md_image">
          <pos>0.21 0.4</pos>
-         <maxSize>0.5 0.4</maxSize>
+         <maxSize>0.48 0.38</maxSize>
          <zIndex>42</zIndex>         
       </image>      
    </view>
@@ -217,7 +217,7 @@ version         1.0
    <view name="video">   
       <video name="md_video">
          <pos>0.21 0.45</pos>
-         <maxSize>0.5 0.4</maxSize>
+         <maxSize>0.48 0.38</maxSize>
          <delay>1.0</delay>
          <zIndex>42</zIndex>         
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
